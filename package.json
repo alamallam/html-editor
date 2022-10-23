@@ -1,0 +1,36 @@
+{
+  "name": "crypto-babble",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@firebase/firestore": "0.7.2",
+    "ant-design-pro": "1.4.4",
+    "antd": "latest",
+    "axios": "0.18.0",
+    "chart.js": "2.7.2",
+    "firebase": "5.4.2",
+    "moment": "latest",
+    "numeral": "2.0.6",
+    "react": "16.4.2",
+    "react-chartjs-2": "2.7.4",
+    "react-chat-elements": "10.0.3",
+    "react-cryptocoins": "1.0.11",
+    "react-dom": "16.4.2",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "4.0.0",
+    "redux-logger": "3.0.6",
+    "redux-saga": "0.16.0",
+    "redux-saga-firebase": "0.14.1",
+    "socket.io-client": "2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
